@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**YuanKuunn/YuanKuunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+カラフルピーチというグループでゲーム実況活動をしています。
+主にマインクラフト関係のプログラムを作成することが多いです。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+
+- YouTube (グループ): https://www.youtube.com/@colorful_peach
+- YouTube (個人): https://www.youtube.com/@yuankuunn
+- X: https://x.com/@YuaPyoon
+
+---
